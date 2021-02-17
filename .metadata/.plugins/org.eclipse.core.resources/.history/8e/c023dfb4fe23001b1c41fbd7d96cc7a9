@@ -1,0 +1,6 @@
+package com.tutorial.jaxrs.calc;
+
+public class CalcREST
+{
+
+}

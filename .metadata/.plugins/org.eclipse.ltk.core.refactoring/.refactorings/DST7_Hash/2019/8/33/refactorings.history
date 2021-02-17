@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HashTest.java&apos; to &apos;DST7_Hash/src/(default package)&apos;&#x0A;- Original project: &apos;DST7_Hash&apos;&#x0A;- Destination element: &apos;DST7_Hash/src/(default package)&apos;&#x0A;- Original element: &apos;HashTest.java&apos;" description="Copy compilation unit" destination="/src&lt;" element1="/src&lt;{HashTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1565755635617" units="1" version="1.0"/>
+</session>

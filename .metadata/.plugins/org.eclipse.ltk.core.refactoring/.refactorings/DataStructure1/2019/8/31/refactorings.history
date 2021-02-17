@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MyArrayList.java&apos; to &apos;DataStructure1/src/(default package)&apos;&#x0A;- Original project: &apos;DataStructure1&apos;&#x0A;- Destination element: &apos;DataStructure1/src/(default package)&apos;&#x0A;- Original element: &apos;MyArrayList.java&apos;" description="Copy compilation unit" destination="/src&lt;" element1="/src&lt;{MyArrayList.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1564823670328" units="1" version="1.0"/>
+</session>

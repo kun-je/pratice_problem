@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/ed_garden/eclipse-workspace/Day1"/>
+		<item value="/Users/ed_garden/eclipse-workspace/J103Test1"/>
+		<item value="/Users/ed_garden/eclipse-workspace/OOP_VDO1"/>
+		<item value="/Users/ed_garden/eclipse-workspace/OOP_capture"/>
+		<item value="/Users/ed_garden/eclipse-workspace/EE"/>
+		<item value="/Users/ed_garden/eclipse-workspace/BeforeOOP2"/>
+		<item value="/Users/ed_garden/eclipse-workspace/Day6"/>
+		<item value="/Users/ed_garden/eclipse-workspace/EC"/>
+		<item value="/Users/ed_garden/eclipse-workspace/EF"/>
+		<item value="/Users/ed_garden/eclipse-workspace/EPTJavatestPart1"/>
+		<item value="/Users/ed_garden/eclipse-workspace/userDatabase"/>
+		<item value="/Users/ed_garden/eclipse-workspace/TestPrint"/>
+		<item value="/Users/ed_garden/eclipse-workspace/EN5"/>
+		<item value="/Users/ed_garden/eclipse-workspace/E5"/>
+		<item value="/Users/ed_garden/eclipse-workspace/EN3"/>
+		<item value="/Users/ed_garden/eclipse-workspace/Networking"/>
+		<item value="/Users/ed_garden/eclipse-workspace/ShoeShop"/>
+	</list>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="578"/>
+		<item key="DIALOG_Y_ORIGIN" value="22"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="528"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+</section>
